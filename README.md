@@ -1,2 +1,3 @@
 # 02-jobporatl
-jobportal application using MERN
+
+Learning - jobportal application using MERN
